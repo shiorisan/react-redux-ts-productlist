@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-redux-ts-productlist/static/js/main.9405fcb7.chunk.js",
+    "main.js.map": "/react-redux-ts-productlist/static/js/main.9405fcb7.chunk.js.map",
+    "runtime-main.js": "/react-redux-ts-productlist/static/js/runtime-main.5c511766.js",
+    "runtime-main.js.map": "/react-redux-ts-productlist/static/js/runtime-main.5c511766.js.map",
+    "static/js/2.192005e3.chunk.js": "/react-redux-ts-productlist/static/js/2.192005e3.chunk.js",
+    "static/js/2.192005e3.chunk.js.map": "/react-redux-ts-productlist/static/js/2.192005e3.chunk.js.map",
+    "index.html": "/react-redux-ts-productlist/index.html",
+    "static/js/2.192005e3.chunk.js.LICENSE.txt": "/react-redux-ts-productlist/static/js/2.192005e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c511766.js",
+    "static/js/2.192005e3.chunk.js",
+    "static/js/main.9405fcb7.chunk.js"
+  ]
+}
